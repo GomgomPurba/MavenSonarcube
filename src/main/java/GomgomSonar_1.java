@@ -5,8 +5,7 @@ public class GomgomSonar_1 {
     public String cek(String name){
         if (name.equals("gomgom")){
             System.out.println("sama");
-        }
-        else{
+        } else {
             System.out.println("tidak");
         }
         return name;

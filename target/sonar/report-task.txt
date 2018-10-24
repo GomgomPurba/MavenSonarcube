@@ -1,0 +1,7 @@
+organization=gomgompurba-github
+projectKey=GomgomPurba_MavenSonarcube
+serverUrl=https://sonarcloud.io
+serverVersion=7.4.0.18624
+dashboardUrl=https://sonarcloud.io/dashboard?id=GomgomPurba_MavenSonarcube
+ceTaskId=AWalNpRkCpA56q9LY1C0
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWalNpRkCpA56q9LY1C0
